@@ -4,6 +4,33 @@
   
     
     <entry>
+      <title>小付第一篇博客</title>
+      <link href="/2021/06/25/firstpage/"/>
+      <url>/2021/06/25/firstpage/</url>
+      
+        <content type="html"><![CDATA[<h3 id="hexo-第一篇博客的记录"><a href="#hexo-第一篇博客的记录" class="headerlink" title="hexo 第一篇博客的记录"></a>hexo 第一篇博客的记录</h3><ul><li>开启hexo 要在博客目录下 : hexo s </li><li>尝试安装 hexo-admin ，npm isntall总报错  直接去GitHub下载了解压到博客目录下，进入 <a href="http://localhost:4000/admin">http://localhost:4000/admin</a></li></ul><h3 id="MakDown-语法记录"><a href="#MakDown-语法记录" class="headerlink" title="MakDown 语法记录"></a>MakDown 语法记录</h3><ul><li><p>#表示标题 ，后面要有空格。 几个# 表示几级标题</p></li><li><p>分割线 ，连续输入3个以上- 或者* </p><hr><hr></li><li><p>无序列表 ，* ，+,- 空格开头</p></li><li><p>有序列表，以数字. 空格</p><ol><li>啦啦啦</li><li>哈哈哈哈<ol start="146"><li>啦啦啦</li><li>哈哈哈 它自己排序</li></ol></li></ol></li></ul><ul><li><p>两个 * 号 表示加粗 ，一个倾斜，三个粗斜体 ，两个=高亮，<del>两个表示删除线、<u></u>下划线、上标^ 、下标</del></p><p><strong>加粗 <strong>，<em>斜体</em>，*</strong>粗斜体*</strong>，== 亮 ==,<u> 下滑</u>，<del>删除删除</del>， 上^ ,下~ </p></li><li><p>链接格式  ， [名字]（地址） [小付的博客](<a href="https://fuchaoyan.github.io/">Hexo (fuchaoyan.github.io)</a>)</p></li></ul><ul><li><p>引用，使用   &gt; 加空格</p><blockquote><p>这里小付开始引用了·····</p><p>A:交朋友吗？</p><p>B: 没有共同爱好不行？</p><p>A:那可以培养嘛 ，你喜欢猪猪侠吗？</p></blockquote></li><li><p>代码 ，使用三个~接语言 如C++、python 空格</p><figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">import</span> numpy</span><br></pre></td></tr></table></figure></li><li><p>表格  ，| 元素1 | 元素2 | 元素3 |   和线之间要空格</p><p>使用typora 可以用ctrl+i </p><table><thead><tr><th align="center">1</th><th>2</th><th>3</th></tr></thead><tbody><tr><td align="center"></td><td></td><td></td></tr></tbody></table></li><li><p>任务 - [ ] 任务几  和线之间要空格 </p><ul><li><input disabled="" type="checkbox"> 找男朋友 <ul><li><input disabled="" type="checkbox"> 找男朋友 </li></ul></li></ul></li><li><p>注释 &lt;!–&gt;</p><p>&lt;!-balabalabal-&gt;</p><ul><li>对齐方法 </li></ul><p>&lt; center&gt;居中 使用html的那种写法 center &lt;/ center&gt;</p><p>左或右齐 &lt; p align= left&gt; or &lt; p align=right&gt;  </p></li><li><p>公式符号  <a href="https://blog.csdn.net/weixin_37590425/article/details/100108904">参考博客</a></p></li></ul>]]></content>
+      
+      
+      <categories>
+          
+          <category> hexo </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> hexo </tag>
+            
+            <tag> note </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Hello World</title>
       <link href="/2021/06/24/hello-world/"/>
       <url>/2021/06/24/hello-world/</url>
